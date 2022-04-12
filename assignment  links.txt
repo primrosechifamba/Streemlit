@@ -1,0 +1,15 @@
+Assgnment  Computer vision
+
+
+PROGRAM :  DATA SCIENCE AND SYSTEMS (HDSC)
+PRIMROSE CHIFAMBA R205534Y
+BLESSINGS USIKU  R205540G
+
+LINKS FOR THE ASSIGNMENT
+googlecolab link (https://colab.research.google.com/drive/12iRxBUu8CyTDUHdDSbPAq7dp2fs64s?usp=sharing)
+
+application link (https://share.streamlit.io/primrosechifamba/streemlit/main/main.py)
+vedio link(https://youtu.be/f7MiSkw6g1l)
+
+
+
