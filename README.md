@@ -1,4 +1,4 @@
-# Streamlit
+# Streemlit
  image detection model
 
 Application link -  https://share.streamlit.io/primrosechifamba/streemlit/main/main.py
