@@ -1,7 +1,9 @@
 # Streemlit
  image detection model
 
-Link to the video-
+Application link -  https://share.streamlit.io/primrosechifamba/streemlit/main/main.py
+
+Video link - https://youtu.be/f7MiSkw6g1l
 
 
-Link to the App -
+
